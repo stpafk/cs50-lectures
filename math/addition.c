@@ -3,9 +3,9 @@
 
 int main(void)
 {
-    int x = get_int("x: ");
+    long x = get_int("x: ");
 
-    int y = get_int("y: ");
+    long y = get_int("y: ");
 
     printf("%i\n", x + y);
 }
