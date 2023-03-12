@@ -8,14 +8,14 @@ int main(void)
   
   if (x > y)
   {
-    printf("x is bigger than y");
+    printf("x is bigger than y\n");
   }
   else if (x < y)
   {
-    printf("y is bigger than x");
+    printf("y is bigger than x\n");
   }
   else 
   {
-    printf("x and y are equal");
+    printf("x and y are equal\n");
   }
 }

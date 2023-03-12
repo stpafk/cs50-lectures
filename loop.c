@@ -16,6 +16,6 @@ int main_2(void)
 {
   for (int i = 0; i < 50; i++)
   {
-    printf("Hello World.\n);
+    printf("Hello World.\n");
   }
 }
